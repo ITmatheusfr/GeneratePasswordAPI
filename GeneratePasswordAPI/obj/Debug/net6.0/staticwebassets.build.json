@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D7b4FMysVQRHG8qPoR3Gdjs7PbWubkv7usVVz6fyBVk=",
+  "Source": "GeneratePasswordAPI",
+  "BasePath": "_content/GeneratePasswordAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
